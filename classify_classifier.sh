@@ -1,0 +1,1 @@
+python /data/facenet-master/src/classifier.py CLASSIFY /data/facenet-master/data/images/ /data/facenet-master/face_model/tf_freeze_model/face_49.pb /data/facenet-master/face_model/svm/face_49_svm.pkl --batch_size 50
